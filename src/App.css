@@ -1,0 +1,14 @@
+body{
+	background-color: aqua;
+}
+
+.filter .btn{
+	border-radius: 50%;
+}
+
+.list-group .btn {
+	width: 25px;
+	height: 25px;
+	border-radius: 50%;
+	padding: 0 5px;
+}
